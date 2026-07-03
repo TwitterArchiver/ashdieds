@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065896080445722624",
+        "3_2065896090243567619",
+        "3_2065896098183462912"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2065896105057935426",
+    "created_at": "2026-06-13T20:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T21:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065896105057935426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040496801401425920",
+          "start": 8,
+          "username": "Xxkg3g"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f9erlr4PQ8",
+          "end": 47,
+          "expanded_url": "https://x.com/ashdieds/status/2065896105057935426/photo/1",
+          "media_key": "3_2065896080445722624",
+          "start": 24,
+          "url": "https://t.co/f9erlr4PQ8"
+        },
+        {
+          "display_url": "pic.x.com/f9erlr4PQ8",
+          "end": 47,
+          "expanded_url": "https://x.com/ashdieds/status/2065896105057935426/photo/1",
+          "media_key": "3_2065896090243567619",
+          "start": 24,
+          "url": "https://t.co/f9erlr4PQ8"
+        },
+        {
+          "display_url": "pic.x.com/f9erlr4PQ8",
+          "end": 47,
+          "expanded_url": "https://x.com/ashdieds/status/2065896105057935426/photo/1",
+          "media_key": "3_2065896098183462912",
+          "start": 24,
+          "url": "https://t.co/f9erlr4PQ8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065896105057935426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不错。这个是我和@Xxkg3g的。看来还是健全 https://t.co/f9erlr4PQ8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065896080445722624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuJiiHW0AALzCW.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2065896090243567619",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuJjGnWEAMiT9w.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2065896098183462912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuJjkMXQAAeNgo.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065896080445722624",
+            "3_2065896090243567619",
+            "3_2065896098183462912"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2065896105057935426",
+        "created_at": "2026-06-13T20:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065896105057935426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040496801401425920",
+              "start": 8,
+              "username": "Xxkg3g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9erlr4PQ8",
+              "end": 47,
+              "expanded_url": "https://x.com/ashdieds/status/2065896105057935426/photo/1",
+              "media_key": "3_2065896080445722624",
+              "start": 24,
+              "url": "https://t.co/f9erlr4PQ8"
+            },
+            {
+              "display_url": "pic.x.com/f9erlr4PQ8",
+              "end": 47,
+              "expanded_url": "https://x.com/ashdieds/status/2065896105057935426/photo/1",
+              "media_key": "3_2065896090243567619",
+              "start": 24,
+              "url": "https://t.co/f9erlr4PQ8"
+            },
+            {
+              "display_url": "pic.x.com/f9erlr4PQ8",
+              "end": 47,
+              "expanded_url": "https://x.com/ashdieds/status/2065896105057935426/photo/1",
+              "media_key": "3_2065896098183462912",
+              "start": 24,
+              "url": "https://t.co/f9erlr4PQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065896105057935426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不错。这个是我和@Xxkg3g的。看来还是健全 https://t.co/f9erlr4PQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo\n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 140,
+          "like_count": 450,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 120
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 248,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 568
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

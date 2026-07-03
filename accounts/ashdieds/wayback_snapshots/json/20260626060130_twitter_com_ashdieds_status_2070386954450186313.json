@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070386943016452096"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2070386954450186313",
+    "created_at": "2026-06-26T06:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070386954450186313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nPUD3LWEjO",
+          "end": 29,
+          "expanded_url": "https://x.com/ashdieds/status/2070386954450186313/photo/1",
+          "media_key": "3_2070386943016452096",
+          "start": 6,
+          "url": "https://t.co/nPUD3LWEjO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070386954450186313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "互联网虫且 https://t.co/nPUD3LWEjO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_2070386943016452096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt99I4aQAAm9hK.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070386943016452096"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2070386954450186313",
+        "created_at": "2026-06-26T06:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070386954450186313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPUD3LWEjO",
+              "end": 29,
+              "expanded_url": "https://x.com/ashdieds/status/2070386954450186313/photo/1",
+              "media_key": "3_2070386943016452096",
+              "start": 6,
+              "url": "https://t.co/nPUD3LWEjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070386954450186313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互联网虫且 https://t.co/nPUD3LWEjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵逼oder碎碎念 | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo \n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "🚪66",
+        "name": "蚀蛊（二代转世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 165,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 186
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

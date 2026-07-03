@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070000499026440192"
+      ],
+      "media_source_tweet_id": [
+        "2070000515099058296"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2070391146057015729",
+    "created_at": "2026-06-26T06:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070391146057015729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987496594594496512",
+          "start": 3,
+          "username": "aldn126633"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3x74Geh8KB",
+          "end": 39,
+          "expanded_url": "https://x.com/aldn126633/status/2070000515099058296/photo/1",
+          "media_key": "3_2070000499026440192",
+          "start": 16,
+          "url": "https://t.co/3x74Geh8KB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070391146057015729",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070000515099058296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aldn126633: https://t.co/3x74Geh8KB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2070000499026440192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoefI1aMAAh0PW.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070000499026440192"
+          ],
+          "media_source_tweet_id": [
+            "2070000515099058296"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2070391146057015729",
+        "created_at": "2026-06-26T06:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070391146057015729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987496594594496512",
+              "start": 3,
+              "username": "aldn126633"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3x74Geh8KB",
+              "end": 39,
+              "expanded_url": "https://x.com/aldn126633/status/2070000515099058296/photo/1",
+              "media_key": "3_2070000499026440192",
+              "start": 16,
+              "url": "https://t.co/3x74Geh8KB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070391146057015729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070000515099058296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aldn126633: https://t.co/3x74Geh8KB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070000499026440192"
+          ]
+        },
+        "author_id": "1987496594594496512",
+        "conversation_id": "2070000515099058296",
+        "created_at": "2026-06-25T04:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070000515099058296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3x74Geh8KB",
+              "end": 23,
+              "expanded_url": "https://x.com/aldn126633/status/2070000515099058296/photo/1",
+              "media_key": "3_2070000499026440192",
+              "start": 0,
+              "url": "https://t.co/3x74Geh8KB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070000515099058296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1544,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3x74Geh8KB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵逼oder碎碎念 | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo \n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "好的",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 165,
+          "like_count": 780,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T12:25:06.000Z",
+        "description": "一键按下注销键\n分身@kiwi_03096",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "kiwi_03096"
+              }
+            ]
+          }
+        },
+        "id": "1987496594594496512",
+        "name": "噩梦的最终场景",
+        "pinned_tweet_id": "2043346189853364636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037775897512820736/Wl9OoB4v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2892,
+          "following_count": 23,
+          "like_count": 204,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 437
+        },
+        "url": "",
+        "username": "aldn126633",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064781201806643200"
+      ],
+      "media_source_tweet_id": [
+        "2064781204138713182"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2064999837553053866",
+    "created_at": "2026-06-11T09:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064999837553053866"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 42,
+          "tag": "subtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058546524443783168",
+          "start": 3,
+          "username": "Sakudoll01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqth5HaKBX",
+          "end": 73,
+          "expanded_url": "https://x.com/Sakudoll01/status/2064781204138713182/photo/1",
+          "media_key": "3_2064781201806643200",
+          "start": 50,
+          "url": "https://t.co/oqth5HaKBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064999837553053866",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1023
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064781204138713182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakudoll01: todos los tuiteros juntos #subtwt https://t.co/oqth5HaKBX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 521,
+        "media_key": "3_2064781201806643200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeTkDiW0AABtvw.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064781201806643200"
+          ],
+          "media_source_tweet_id": [
+            "2064781204138713182"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2064999837553053866",
+        "created_at": "2026-06-11T09:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064999837553053866"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "subtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058546524443783168",
+              "start": 3,
+              "username": "Sakudoll01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqth5HaKBX",
+              "end": 73,
+              "expanded_url": "https://x.com/Sakudoll01/status/2064781204138713182/photo/1",
+              "media_key": "3_2064781201806643200",
+              "start": 50,
+              "url": "https://t.co/oqth5HaKBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064999837553053866",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1023
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064781204138713182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakudoll01: todos los tuiteros juntos #subtwt https://t.co/oqth5HaKBX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064781201806643200"
+          ]
+        },
+        "author_id": "2058546524443783168",
+        "conversation_id": "2064781204138713182",
+        "created_at": "2026-06-10T18:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064781204138713182"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "subtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqth5HaKBX",
+              "end": 57,
+              "expanded_url": "https://x.com/Sakudoll01/status/2064781204138713182/photo/1",
+              "media_key": "3_2064781201806643200",
+              "start": 34,
+              "url": "https://t.co/oqth5HaKBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064781204138713182",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 28331,
+          "like_count": 4656,
+          "quote_count": 9,
+          "reply_count": 18,
+          "retweet_count": 1023
+        },
+        "reply_settings": "everyone",
+        "text": "todos los tuiteros juntos #subtwt https://t.co/oqth5HaKBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 116,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 98
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T13:54:47.000Z",
+        "description": "୧𐙚 ‧₊˚ ⋅🍨‧₊˚ 🎀 ⋅ ♡Cutecore♡Kawaiicore♡ jirai kei♡୧ ೀ 🍰 ‧ ˚♡ #subtwt 𐙚 ‧₊˚ ⋅ 🍮 \nmis otras kuentas @sakurafresas @sakurafresita2 \n໒꒰ྀིっ˕ -｡꒱ྀི১",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 67,
+                "start": 60,
+                "tag": "subtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 97,
+                "username": "sakurafresas"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "sakurafresita2"
+              }
+            ]
+          }
+        },
+        "id": "2058546524443783168",
+        "location": "♡Hospital psiquiátrico♡",
+        "name": "🎀💉Sakura🍮🍨",
+        "pinned_tweet_id": "2058580345851695408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058579944557436928/7tPT5APl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 305,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 363
+        },
+        "username": "Sakudoll01",
+        "verified": false
+      }
+    ]
+  }
+}

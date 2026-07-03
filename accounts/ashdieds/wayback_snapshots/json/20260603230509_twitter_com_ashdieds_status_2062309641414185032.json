@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2061668348312858902",
+    "created_at": "2026-06-03T23:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T00:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062309641414185032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831712966150148097",
+          "start": 0,
+          "username": "zhangyv_ovo"
+        },
+        {
+          "end": 24,
+          "id": "1810616157059301376",
+          "start": 13,
+          "username": "Bocchi_Kk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062309641414185032",
+    "in_reply_to_user_id": "1831712966150148097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061668348312858902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangyv_ovo @Bocchi_Kk1 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2061668348312858902",
+        "created_at": "2026-06-03T23:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T00:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062309641414185032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831712966150148097",
+              "start": 0,
+              "username": "zhangyv_ovo"
+            },
+            {
+              "end": 24,
+              "id": "1810616157059301376",
+              "start": 13,
+              "username": "Bocchi_Kk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062309641414185032",
+        "in_reply_to_user_id": "1831712966150148097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061668348312858902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangyv_ovo @Bocchi_Kk1 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831712966150148097",
+        "conversation_id": "2061668348312858902",
+        "created_at": "2026-06-02T04:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061668348312858902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061668348312858902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1000fo福利抽奖来啦！\n参与就100%会获得奖品！！\n特等奖 小章鱼定制视频一次  1份\n一等奖 肯德基v50  1份\n二等奖 宜家小鲨鱼or日雌一瓶（可折现30元 3份\n三等奖 两瓶魔爪指定口味  8份\n参与奖 小章鱼私密照片一张（\n只要参与了抽奖就会获得参与奖一份！\n参与方式：点赞关注转帖即可参与\n抽奖方式为随机数抽取转帖名单\n如果抽到的是机器人或抽奖号将把奖项继续抽取给其他人\n开奖时间为达1000fo即刻抽取\n另外开奖之后参与奖需主动找我领取哦"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4657,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 68,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "1000fo福利抽奖来啦！\n参与就100%会获得奖品！！\n特等奖 小章鱼定制视频一次  1份\n一等奖 肯德基v50  1份\n二等奖 宜家小鲨鱼or日雌一瓶（可折现30元 3份\n三等奖 两瓶魔爪指定口味  8份\n参与奖 小章鱼私密照片一张（\n只要参与了抽奖就会获得参与奖一份！\n参与方式：点赞关注转帖即可参与"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 31,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 43
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T15:16:26.000Z",
+        "description": "生日2010.04.04/xyn一个/170/52kg\n可以跟咱聊天/缺爱型/烤批/HRT🏳️‍⚧️2024.12.30\n渴望与别人抱抱/目前精神还算稳定？.../好老公@miaoeatcarrot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "miaoeatcarrot"
+              }
+            ]
+          }
+        },
+        "id": "1831712966150148097",
+        "location": "Kawasaki-shi Tama-ku, Kanagawa",
+        "name": "章鱼小丸子🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2061668348312858902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019977478996099073/afO_rdl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 112,
+          "like_count": 427,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 484
+        },
+        "username": "zhangyv_ovo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-09T10:05:14.000Z",
+        "description": "",
+        "id": "1810616157059301376",
+        "location": "你家",
+        "name": "可爱波奇大王💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051336863353536512/Wq2rULBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 78,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 88
+        },
+        "username": "Bocchi_Kk1",
+        "verified": false
+      }
+    ]
+  }
+}

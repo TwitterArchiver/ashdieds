@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062175063311589376",
+        "3_2062175067099086848",
+        "3_2062175068449574912",
+        "3_2062175067858178048"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2062175072924922026",
+    "created_at": "2026-06-03T14:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062175072924922026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1933114395854610432",
+          "start": 5,
+          "username": "eweisi32"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T4ozNEmj63",
+          "end": 52,
+          "expanded_url": "https://x.com/ashdieds/status/2062175072924922026/photo/1",
+          "media_key": "3_2062175063311589376",
+          "start": 29,
+          "url": "https://t.co/T4ozNEmj63"
+        },
+        {
+          "display_url": "pic.x.com/T4ozNEmj63",
+          "end": 52,
+          "expanded_url": "https://x.com/ashdieds/status/2062175072924922026/photo/1",
+          "media_key": "3_2062175067099086848",
+          "start": 29,
+          "url": "https://t.co/T4ozNEmj63"
+        },
+        {
+          "display_url": "pic.x.com/T4ozNEmj63",
+          "end": 52,
+          "expanded_url": "https://x.com/ashdieds/status/2062175072924922026/photo/1",
+          "media_key": "3_2062175068449574912",
+          "start": 29,
+          "url": "https://t.co/T4ozNEmj63"
+        },
+        {
+          "display_url": "pic.x.com/T4ozNEmj63",
+          "end": 52,
+          "expanded_url": "https://x.com/ashdieds/status/2062175072924922026/photo/1",
+          "media_key": "3_2062175067858178048",
+          "start": 29,
+          "url": "https://t.co/T4ozNEmj63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062175072924922026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是蚀蚀 @eweisi32此号被封\n寻回前世fo求互转 https://t.co/T4ozNEmj63"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [eweisi32].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "eweisi32",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "eweisi32"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1547,
+        "media_key": "3_2062175063311589376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5RS1FbIAAhxv4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062175067099086848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5RTDMbwAALbuk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062175068449574912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5RTIOakAAF6On.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2062175067858178048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5RTGBakAA_Psr.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062175063311589376",
+            "3_2062175067099086848",
+            "3_2062175068449574912",
+            "3_2062175067858178048"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2062175072924922026",
+        "created_at": "2026-06-03T14:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062175072924922026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933114395854610432",
+              "start": 5,
+              "username": "eweisi32"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T4ozNEmj63",
+              "end": 52,
+              "expanded_url": "https://x.com/ashdieds/status/2062175072924922026/photo/1",
+              "media_key": "3_2062175063311589376",
+              "start": 29,
+              "url": "https://t.co/T4ozNEmj63"
+            },
+            {
+              "display_url": "pic.x.com/T4ozNEmj63",
+              "end": 52,
+              "expanded_url": "https://x.com/ashdieds/status/2062175072924922026/photo/1",
+              "media_key": "3_2062175067099086848",
+              "start": 29,
+              "url": "https://t.co/T4ozNEmj63"
+            },
+            {
+              "display_url": "pic.x.com/T4ozNEmj63",
+              "end": 52,
+              "expanded_url": "https://x.com/ashdieds/status/2062175072924922026/photo/1",
+              "media_key": "3_2062175068449574912",
+              "start": 29,
+              "url": "https://t.co/T4ozNEmj63"
+            },
+            {
+              "display_url": "pic.x.com/T4ozNEmj63",
+              "end": 52,
+              "expanded_url": "https://x.com/ashdieds/status/2062175072924922026/photo/1",
+              "media_key": "3_2062175067858178048",
+              "start": 29,
+              "url": "https://t.co/T4ozNEmj63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062175072924922026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是蚀蚀 @eweisi32此号被封\n寻回前世fo求互转 https://t.co/T4ozNEmj63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "……上一世被奸人所害。寻回互fo",
+        "id": "2060627239654629376",
+        "location": "🚪120可口令",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2060777227932082195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 27
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

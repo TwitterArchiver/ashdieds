@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063236951931506688"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2062306323841351740",
+    "created_at": "2026-06-06T12:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063236956784398424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JwqsxevFvo",
+          "end": 27,
+          "expanded_url": "https://x.com/ashdieds/status/2063236956784398424/photo/1",
+          "media_key": "3_2063236951931506688",
+          "start": 4,
+          "url": "https://t.co/JwqsxevFvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063236956784398424",
+    "in_reply_to_user_id": "2060627239654629376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062306323841351740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "丢这里 https://t.co/JwqsxevFvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063236951931506688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIXE4dWUAAs3Rk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1547,
+        "media_key": "3_2062306317600239616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7Iq1abMAAOLoi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2062306317008871424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7IqzNboAAODNV.jpg",
+        "width": 1037
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062306318954983424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7Iq6da8AAIavJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062306320007729152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7Iq-YakAAPF9d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063236951931506688"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2062306323841351740",
+        "created_at": "2026-06-06T12:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063236956784398424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwqsxevFvo",
+              "end": 27,
+              "expanded_url": "https://x.com/ashdieds/status/2063236956784398424/photo/1",
+              "media_key": "3_2063236951931506688",
+              "start": 4,
+              "url": "https://t.co/JwqsxevFvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063236956784398424",
+        "in_reply_to_user_id": "2060627239654629376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062306323841351740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "丢这里 https://t.co/JwqsxevFvo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062306317600239616",
+            "3_2062306317008871424",
+            "3_2062306318954983424",
+            "3_2062306320007729152"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2062306323841351740",
+        "created_at": "2026-06-03T22:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062306323841351740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933114395854610432",
+              "start": 5,
+              "username": "eweisi32"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBj01UReJ6",
+              "end": 52,
+              "expanded_url": "https://x.com/ashdieds/status/2062306323841351740/photo/1",
+              "media_key": "3_2062306317600239616",
+              "start": 29,
+              "url": "https://t.co/GBj01UReJ6"
+            },
+            {
+              "display_url": "pic.x.com/GBj01UReJ6",
+              "end": 52,
+              "expanded_url": "https://x.com/ashdieds/status/2062306323841351740/photo/1",
+              "media_key": "3_2062306317008871424",
+              "start": 29,
+              "url": "https://t.co/GBj01UReJ6"
+            },
+            {
+              "display_url": "pic.x.com/GBj01UReJ6",
+              "end": 52,
+              "expanded_url": "https://x.com/ashdieds/status/2062306323841351740/photo/1",
+              "media_key": "3_2062306318954983424",
+              "start": 29,
+              "url": "https://t.co/GBj01UReJ6"
+            },
+            {
+              "display_url": "pic.x.com/GBj01UReJ6",
+              "end": 52,
+              "expanded_url": "https://x.com/ashdieds/status/2062306323841351740/photo/1",
+              "media_key": "3_2062306320007729152",
+              "start": 29,
+              "url": "https://t.co/GBj01UReJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062306323841351740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1810,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我是蚀蚀 @eweisi32此号被封\n寻回前世fo求互转 https://t.co/GBj01UReJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 87,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 66
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

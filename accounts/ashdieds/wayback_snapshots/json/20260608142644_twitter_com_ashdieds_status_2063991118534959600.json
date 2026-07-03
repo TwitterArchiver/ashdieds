@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063921688904073216"
+      ],
+      "media_source_tweet_id": [
+        "2063921704729210896"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2063991118534959600",
+    "created_at": "2026-06-08T14:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063991118534959600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3wB5DpHx35",
+          "end": 53,
+          "expanded_url": "https://x.com/pearl0812lucky/status/2063921704729210896/photo/1",
+          "media_key": "3_2063921688904073216",
+          "start": 30,
+          "url": "https://t.co/3wB5DpHx35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063991118534959600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063921704729210896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 女孩我保证你是天使 https://t.co/3wB5DpHx35"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_2063921688904073216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKSF10daAAAtM-n.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063921688904073216"
+          ],
+          "media_source_tweet_id": [
+            "2063921704729210896"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2063991118534959600",
+        "created_at": "2026-06-08T14:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063991118534959600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wB5DpHx35",
+              "end": 53,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2063921704729210896/photo/1",
+              "media_key": "3_2063921688904073216",
+              "start": 30,
+              "url": "https://t.co/3wB5DpHx35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063991118534959600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063921704729210896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 女孩我保证你是天使 https://t.co/3wB5DpHx35"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063921688904073216"
+          ]
+        },
+        "author_id": "1991711672684421121",
+        "conversation_id": "2063921704729210896",
+        "created_at": "2026-06-08T09:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063921704729210896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wB5DpHx35",
+              "end": 33,
+              "expanded_url": "https://x.com/pearl0812lucky/status/2063921704729210896/photo/1",
+              "media_key": "3_2063921688904073216",
+              "start": 10,
+              "url": "https://t.co/3wB5DpHx35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063921704729210896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 49437,
+          "like_count": 2591,
+          "quote_count": 5,
+          "reply_count": 83,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "女孩我保证你是天使 https://t.co/3wB5DpHx35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 108,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 80
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8800,
+          "following_count": 73,
+          "like_count": 8060,
+          "listed_count": 7,
+          "media_count": 174,
+          "tweet_count": 1907
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

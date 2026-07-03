@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070518482182029313"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070518496706834733",
+    "created_at": "2026-06-26T14:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070518496706834733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQ4paV1Y36",
+          "end": 28,
+          "expanded_url": "https://x.com/ashdieds/status/2070518496706834733/photo/1",
+          "media_key": "3_2070518482182029313",
+          "start": 5,
+          "url": "https://t.co/PQ4paV1Y36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070518496706834733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正太牛逼 https://t.co/PQ4paV1Y36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2299,
+        "media_key": "3_2070518482182029313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv1ludXQAERpfB.jpg",
+        "width": 3189
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070518482182029313"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070518496706834733",
+        "created_at": "2026-06-26T14:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070518496706834733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQ4paV1Y36",
+              "end": 28,
+              "expanded_url": "https://x.com/ashdieds/status/2070518496706834733/photo/1",
+              "media_key": "3_2070518482182029313",
+              "start": 5,
+              "url": "https://t.co/PQ4paV1Y36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070518496706834733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正太牛逼 https://t.co/PQ4paV1Y36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "一个餐劵逼，一个oder ，一个神经病，一个coser，一个乞丐。求互转互fo 会查成分",
+        "id": "2060627239654629376",
+        "location": "好的",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 165,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2063237578451468395",
+    "created_at": "2026-06-07T03:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063464622435536923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1989654394430754816",
+          "start": 0,
+          "username": "sewwer_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063464622435536923",
+    "in_reply_to_user_id": "1989654394430754816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063237578451468395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sewwer_ 互fo咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2063237578451468395",
+        "created_at": "2026-06-07T03:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063464622435536923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989654394430754816",
+              "start": 0,
+              "username": "sewwer_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063464622435536923",
+        "in_reply_to_user_id": "1989654394430754816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063237578451468395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sewwer_ 互fo咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989654394430754816",
+        "conversation_id": "2063237578451468395",
+        "created_at": "2026-06-06T12:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063237578451468395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063237578451468395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底怎么互fo到更多人呀！我一直在掉粉(╥﹏╥)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 101,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 76
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T11:25:18.000Z",
+        "description": "fo只回喜欢的",
+        "id": "1989654394430754816",
+        "location": "中南海",
+        "name": "sew",
+        "pinned_tweet_id": "2063457729184686334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063237417667059713/5mNddB_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 116,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 184
+        },
+        "username": "sewwer_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060775214078939136"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2060775217505710175",
+    "created_at": "2026-05-30T17:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060775217505710175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AJP7eddtgx",
+          "end": 23,
+          "expanded_url": "https://x.com/ashdieds/status/2060775217505710175/photo/1",
+          "media_key": "3_2060775214078939136",
+          "start": 0,
+          "url": "https://t.co/AJP7eddtgx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060775217505710175",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/AJP7eddtgx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060775214078939136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlYI4Ua0AA5PLw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060775214078939136"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2060775217505710175",
+        "created_at": "2026-05-30T17:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060775217505710175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJP7eddtgx",
+              "end": 23,
+              "expanded_url": "https://x.com/ashdieds/status/2060775217505710175/photo/1",
+              "media_key": "3_2060775214078939136",
+              "start": 0,
+              "url": "https://t.co/AJP7eddtgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060775217505710175",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AJP7eddtgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=ash/灰烬  自傷に執着 薬物過剰摂取。\n仅余尘埃。",
+        "id": "2060627239654629376",
+        "location": "🚪199",
+        "name": "ash",
+        "pinned_tweet_id": "2060642677591552094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060631727450750976/j9g9we6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

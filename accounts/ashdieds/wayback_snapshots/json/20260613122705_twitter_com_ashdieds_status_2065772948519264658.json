@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2065762712341389418",
+    "created_at": "2026-06-13T12:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065772948519264658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2025964591222820864",
+          "start": 0,
+          "username": "tang64902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065772948519264658",
+    "in_reply_to_user_id": "2025964591222820864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065762712341389418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang64902 真的可以吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2065762668934537216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsQM9gbIAAKOoM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2065762668934529024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsQM9gbAAAAXSp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2065762712341389418",
+        "created_at": "2026-06-13T12:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065772948519264658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2025964591222820864",
+              "start": 0,
+              "username": "tang64902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065772948519264658",
+        "in_reply_to_user_id": "2025964591222820864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065762712341389418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang64902 真的可以吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065762668934537216",
+            "3_2065762668934529024"
+          ]
+        },
+        "author_id": "2025964591222820864",
+        "conversation_id": "2065762712341389418",
+        "created_at": "2026-06-13T11:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065762712341389418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuQIXJhLV4",
+              "end": 45,
+              "expanded_url": "https://x.com/tang64902/status/2065762712341389418/photo/1",
+              "media_key": "3_2065762668934537216",
+              "start": 22,
+              "url": "https://t.co/LuQIXJhLV4"
+            },
+            {
+              "display_url": "pic.x.com/LuQIXJhLV4",
+              "end": 45,
+              "expanded_url": "https://x.com/tang64902/status/2065762712341389418/photo/1",
+              "media_key": "3_2065762668934529024",
+              "start": 22,
+              "url": "https://t.co/LuQIXJhLV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065762712341389418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何门科？我说我普瑞巴林成瘾能不能开点普瑞？ https://t.co/LuQIXJhLV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 130,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 109
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T16:03:53.000Z",
+        "description": "背叛的爱丽丝",
+        "id": "2025964591222820864",
+        "location": "不可思议之国",
+        "name": "嗜冰男孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060950944146493440/KDMzKgZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 116,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 142
+        },
+        "username": "tang64902",
+        "verified": false
+      }
+    ]
+  }
+}

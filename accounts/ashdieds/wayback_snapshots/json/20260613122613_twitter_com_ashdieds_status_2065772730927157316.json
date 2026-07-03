@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2065772730927157316",
+    "created_at": "2026-06-13T12:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T13:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065772730927157316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1954524887454011392",
+          "start": 3,
+          "username": "thexiexx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065772730927157316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065694529953701999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thexiexx: @所有人 马上300fo了呀抽一个人类画无偿300fogrok开奖🫵\n\n参与条件赞转评谢谢你们😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2065772730927157316",
+        "created_at": "2026-06-13T12:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065772730927157316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1954524887454011392",
+              "start": 3,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065772730927157316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065694529953701999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thexiexx: @所有人 马上300fo了呀抽一个人类画无偿300fogrok开奖🫵\n\n参与条件赞转评谢谢你们😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065694529953701999",
+        "created_at": "2026-06-13T07:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065694529953701999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/thexiexx/status/2065385008949588376",
+              "start": 49,
+              "url": "https://t.co/XZtjfApdQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065694529953701999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065385008949588376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@所有人 马上300fo了呀抽一个人类画无偿300fogrok开奖🫵\n\n参与条件赞转评谢谢你们😋 https://t.co/XZtjfApdQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 128,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 108
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 477,
+          "like_count": 3156,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 2708
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061617542427516928"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2061617545044758917",
+    "created_at": "2026-06-02T01:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061617545044758917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eTOyRR6uOM",
+          "end": 26,
+          "expanded_url": "https://x.com/ashdieds/status/2061617545044758917/photo/1",
+          "media_key": "3_2061617542427516928",
+          "start": 3,
+          "url": "https://t.co/eTOyRR6uOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061617545044758917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "难绷 https://t.co/eTOyRR6uOM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061617542427516928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxWO18bIAA8Ods.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061617542427516928"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2061617545044758917",
+        "created_at": "2026-06-02T01:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061617545044758917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTOyRR6uOM",
+              "end": 26,
+              "expanded_url": "https://x.com/ashdieds/status/2061617545044758917/photo/1",
+              "media_key": "3_2061617542427516928",
+              "start": 3,
+              "url": "https://t.co/eTOyRR6uOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061617545044758917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷 https://t.co/eTOyRR6uOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=ash/灰烬  自傷に執着 薬物過剰摂取。\n仅余尘埃。",
+        "id": "2060627239654629376",
+        "location": "🚪188可口令",
+        "name": "ash",
+        "pinned_tweet_id": "2060777227932082195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060631727450750976/j9g9we6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 24
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

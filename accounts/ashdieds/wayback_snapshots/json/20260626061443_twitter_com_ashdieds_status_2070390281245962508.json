@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070390263055319040",
+        "3_2070390271792025600"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2070390281245962508",
+    "created_at": "2026-06-26T06:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070390281245962508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9xVZSAYrHY",
+          "end": 23,
+          "expanded_url": "https://x.com/ashdieds/status/2070390281245962508/photo/1",
+          "media_key": "3_2070390263055319040",
+          "start": 0,
+          "url": "https://t.co/9xVZSAYrHY"
+        },
+        {
+          "display_url": "pic.x.com/9xVZSAYrHY",
+          "end": 23,
+          "expanded_url": "https://x.com/ashdieds/status/2070390281245962508/photo/1",
+          "media_key": "3_2070390271792025600",
+          "start": 0,
+          "url": "https://t.co/9xVZSAYrHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070390281245962508",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9xVZSAYrHY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2070390263055319040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuA-Y_XAAA-bOR.jpg",
+        "width": 636
+      },
+      {
+        "height": 680,
+        "media_key": "3_2070390271792025600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuA-5iWkAA0xA4.jpg",
+        "width": 636
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070390263055319040",
+            "3_2070390271792025600"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2070390281245962508",
+        "created_at": "2026-06-26T06:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070390281245962508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xVZSAYrHY",
+              "end": 23,
+              "expanded_url": "https://x.com/ashdieds/status/2070390281245962508/photo/1",
+              "media_key": "3_2070390263055319040",
+              "start": 0,
+              "url": "https://t.co/9xVZSAYrHY"
+            },
+            {
+              "display_url": "pic.x.com/9xVZSAYrHY",
+              "end": 23,
+              "expanded_url": "https://x.com/ashdieds/status/2070390281245962508/photo/1",
+              "media_key": "3_2070390271792025600",
+              "start": 0,
+              "url": "https://t.co/9xVZSAYrHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070390281245962508",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9xVZSAYrHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵逼oder碎碎念 | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo \n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "好的",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 165,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2069651673237393639",
+    "created_at": "2026-06-24T05:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069651673237393639"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069651673237393639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "52🧧即可收获一个每天来问候说话你的蚀\n1⃣️点开私信\n2⃣️向1010甩一串口令"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2069651673237393639",
+        "created_at": "2026-06-24T05:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069651673237393639"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069651673237393639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "52🧧即可收获一个每天来问候说话你的蚀\n1⃣️点开私信\n2⃣️向1010甩一串口令"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵逼oder碎碎念 | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo \n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 172,
+          "like_count": 700,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

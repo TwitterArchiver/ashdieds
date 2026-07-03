@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2064955105493856671",
+    "created_at": "2026-06-11T06:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064955105493856671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939914447017119744",
+          "start": 3,
+          "username": "HEIMAO529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064955105493856671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064638768741855514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HEIMAO529: 我需要的不是一位恋人\n我需要的是一条狗、ATM机、没爹没妈的孤儿、长的牛逼、打游戏牛、接受我出轨、粘人、不黏人、不看擦边但爱说荤话有分寸、单纯天真专一、纯爱、没有和女生聊过强谈过恋爱的感情小白、宠我并始终如一、强的、纯的、闷骚、腹黑、占有欲强、离不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2064955105493856671",
+        "created_at": "2026-06-11T06:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064955105493856671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939914447017119744",
+              "start": 3,
+              "username": "HEIMAO529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064955105493856671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064638768741855514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HEIMAO529: 我需要的不是一位恋人\n我需要的是一条狗、ATM机、没爹没妈的孤儿、长的牛逼、打游戏牛、接受我出轨、粘人、不黏人、不看擦边但爱说荤话有分寸、单纯天真专一、纯爱、没有和女生聊过强谈过恋爱的感情小白、宠我并始终如一、强的、纯的、闷骚、腹黑、占有欲强、离不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939914447017119744",
+        "conversation_id": "2064638768741855514",
+        "created_at": "2026-06-10T09:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064638768741855514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064638768741855514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9967,
+          "like_count": 234,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "我需要的不是一位恋人\n我需要的是一条狗、ATM机、没爹没妈的孤儿、长的牛逼、打游戏牛、接受我出轨、粘人、不黏人、不看擦边但爱说荤话有分寸、单纯天真专一、纯爱、没有和女生聊过强谈过恋爱的感情小白、宠我并始终如一、强的、纯的、闷骚、腹黑、占有欲强、离不开我的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 114,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 92
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T05:10:41.000Z",
+        "description": "名字是黑貓，女生\n互fo擴列啥的小窗就行\n剩下忘了\n🐈‍⬛🐈‍⬛🐈‍⬛",
+        "id": "1939914447017119744",
+        "location": "北校c栋",
+        "name": "くろねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057070025056628736/JgR553_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 209,
+          "like_count": 3370,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 439
+        },
+        "username": "HEIMAO529",
+        "verified": false
+      }
+    ]
+  }
+}

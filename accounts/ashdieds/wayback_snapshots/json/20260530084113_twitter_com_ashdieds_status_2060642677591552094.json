@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2060642677591552094",
+    "created_at": "2026-05-30T08:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060642677591552094"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060642677591552094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自介条~(◍′˘‵◍)\nod | 餐劵 |碎碎念\n生理性别为女 只想和大家交朋友。\n对不起。家里面不给生活费\n🚪188 拜托哥哥姐姐投喂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2060642677591552094",
+        "created_at": "2026-05-30T08:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060642677591552094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060642677591552094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介条~(◍′˘‵◍)\nod | 餐劵 |碎碎念\n生理性别为女 只想和大家交朋友。\n对不起。家里面不给生活费\n🚪188 拜托哥哥姐姐投喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "自傷に執着，薬物過剰摂取。\n仅余尘埃。",
+        "id": "2060627239654629376",
+        "location": "🚪199",
+        "name": "ash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060631727450750976/j9g9we6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

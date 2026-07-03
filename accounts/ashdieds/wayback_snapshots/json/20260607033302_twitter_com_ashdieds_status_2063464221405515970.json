@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2063259760586346750",
+    "created_at": "2026-06-07T03:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063464221405515970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1963313009117597701",
+          "start": 0,
+          "username": "heyshipz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063464221405515970",
+    "in_reply_to_user_id": "1963313009117597701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063259760586346750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heyshipz hi 道德绑架的死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2063252138600591360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIk43NacAA-NNs.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2063259760586346750",
+        "created_at": "2026-06-07T03:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063464221405515970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1963313009117597701",
+              "start": 0,
+              "username": "heyshipz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063464221405515970",
+        "in_reply_to_user_id": "1963313009117597701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063259760586346750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heyshipz hi 道德绑架的死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063252138600591360"
+          ]
+        },
+        "author_id": "1963313009117597701",
+        "conversation_id": "2063259760586346750",
+        "created_at": "2026-06-06T14:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063259760586346750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jsMQdWAlh",
+              "end": 72,
+              "expanded_url": "https://x.com/heyshipz/status/2063259760586346750/photo/1",
+              "media_key": "3_2063252138600591360",
+              "start": 49,
+              "url": "https://t.co/8jsMQdWAlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063259760586346750",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1151,
+          "impression_count": 399348,
+          "like_count": 40144,
+          "quote_count": 282,
+          "reply_count": 4383,
+          "retweet_count": 1867
+        },
+        "reply_settings": "everyone",
+        "text": "9 YEARS OF BAD LUCK IF YOU DON'T SAY HI TO CHIBI https://t.co/8jsMQdWAlh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 99,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 75
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T18:48:12.000Z",
+        "description": "between stardust and silence, I exist.",
+        "id": "1963313009117597701",
+        "name": "shipz ✧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035765084073676800/rpvriHs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25954,
+          "following_count": 3511,
+          "like_count": 19568,
+          "listed_count": 22,
+          "media_count": 2492,
+          "tweet_count": 9458
+        },
+        "username": "heyshipz",
+        "verified": true
+      }
+    ]
+  }
+}

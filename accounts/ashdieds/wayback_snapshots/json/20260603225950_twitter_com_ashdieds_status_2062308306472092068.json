@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2062307647253262765",
+    "created_at": "2026-06-03T22:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T23:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062308306472092068"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062308306472092068",
+    "in_reply_to_user_id": "2060627239654629376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062307647253262765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请不要保存我的照片转存到其他平台"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062307643814010880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7J4B8bYAAi7v8.jpg",
+        "width": 1363
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2062307647253262765",
+        "created_at": "2026-06-03T22:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062308306472092068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062308306472092068",
+        "in_reply_to_user_id": "2060627239654629376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062307647253262765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请不要保存我的照片转存到其他平台"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062307643814010880"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2062307647253262765",
+        "created_at": "2026-06-03T22:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062307647253262765"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMNXKh5U6Q",
+              "end": 44,
+              "expanded_url": "https://x.com/ashdieds/status/2062307647253262765/photo/1",
+              "media_key": "3_2062307643814010880",
+              "start": 21,
+              "url": "https://t.co/QMNXKh5U6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062307647253262765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "独属于你的心脏 尾调竟是我的泪 #cos https://t.co/QMNXKh5U6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 27,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 39
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

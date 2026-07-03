@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060640608398794752"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2060640612509176287",
+    "created_at": "2026-05-30T08:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060640612509176287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BlVvkpFPsc",
+          "end": 35,
+          "expanded_url": "https://x.com/ashdieds/status/2060640612509176287/photo/1",
+          "media_key": "3_2060640608398794752",
+          "start": 12,
+          "url": "https://t.co/BlVvkpFPsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060640612509176287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "任何形式。的。我。晚安 https://t.co/BlVvkpFPsc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1834,
+        "media_key": "3_2060640608398794752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjdtzFa4AAFYQN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060640608398794752"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2060640612509176287",
+        "created_at": "2026-05-30T08:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060640612509176287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BlVvkpFPsc",
+              "end": 35,
+              "expanded_url": "https://x.com/ashdieds/status/2060640612509176287/photo/1",
+              "media_key": "3_2060640608398794752",
+              "start": 12,
+              "url": "https://t.co/BlVvkpFPsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060640612509176287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "任何形式。的。我。晚安 https://t.co/BlVvkpFPsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "自傷に執着，薬物過剰摂取。\n仅余尘埃。",
+        "id": "2060627239654629376",
+        "location": "🚪199",
+        "name": "ash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060631727450750976/j9g9we6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 5,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2070521636927816106",
+    "created_at": "2026-06-26T14:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070521636927816106"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070521636927816106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以后什么什么让人感到焦虑的事情 我哪知道咋子办 真傻福 也还没做好告别 不要向我提问 我想出国我想旅游我也没有钱没有年龄 可是什么都干不了 浪费时间 哪来那么高的追求 气  我真蠢 前几天想跳楼的欲望最强烈 我不信还能好好的 等某天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2070521636927816106",
+        "created_at": "2026-06-26T14:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070521636927816106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070521636927816106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后什么什么让人感到焦虑的事情 我哪知道咋子办 真傻福 也还没做好告别 不要向我提问 我想出国我想旅游我也没有钱没有年龄 可是什么都干不了 浪费时间 哪来那么高的追求 气  我真蠢 前几天想跳楼的欲望最强烈 我不信还能好好的 等某天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "一个餐劵逼，一个oder ，一个神经病，一个coser，一个乞丐。求互转互fo 会查成分",
+        "id": "2060627239654629376",
+        "location": "好的",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 165,
+          "like_count": 808,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

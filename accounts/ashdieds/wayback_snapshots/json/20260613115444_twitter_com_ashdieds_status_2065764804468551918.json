@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065764800962203648"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2065764804468551918",
+    "created_at": "2026-06-13T11:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065764804468551918"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X3UmZ3heFb",
+          "end": 23,
+          "expanded_url": "https://x.com/ashdieds/status/2065764804468551918/photo/1",
+          "media_key": "3_2065764800962203648",
+          "start": 0,
+          "url": "https://t.co/X3UmZ3heFb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065764804468551918",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/X3UmZ3heFb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2065764800962203648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsSJD7bkAAy2wj.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065764800962203648"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2065764804468551918",
+        "created_at": "2026-06-13T11:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065764804468551918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3UmZ3heFb",
+              "end": 23,
+              "expanded_url": "https://x.com/ashdieds/status/2065764804468551918/photo/1",
+              "media_key": "3_2065764800962203648",
+              "start": 0,
+              "url": "https://t.co/X3UmZ3heFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065764804468551918",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/X3UmZ3heFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 115,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 101
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

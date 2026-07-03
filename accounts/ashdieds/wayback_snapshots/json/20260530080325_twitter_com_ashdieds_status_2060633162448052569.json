@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060633158383755264"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060633162448052569",
+    "created_at": "2026-05-30T08:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060633162448052569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L9Fss3nkzC",
+          "end": 44,
+          "expanded_url": "https://x.com/ashdieds/status/2060633162448052569/photo/1",
+          "media_key": "3_2060633158383755264",
+          "start": 21,
+          "url": "https://t.co/L9Fss3nkzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060633162448052569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "いつも何もかもぐちゃぐちゃにしちゃうの… https://t.co/L9Fss3nkzC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060633158383755264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjW8Jna4AAUG_O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060633158383755264"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060633162448052569",
+        "created_at": "2026-05-30T08:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060633162448052569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L9Fss3nkzC",
+              "end": 44,
+              "expanded_url": "https://x.com/ashdieds/status/2060633162448052569/photo/1",
+              "media_key": "3_2060633158383755264",
+              "start": 21,
+              "url": "https://t.co/L9Fss3nkzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060633162448052569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "いつも何もかもぐちゃぐちゃにしちゃうの… https://t.co/L9Fss3nkzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "自傷に執着，薬物過剰摂取。\n仅余尘埃。",
+        "id": "2060627239654629376",
+        "location": "0.1km",
+        "name": "ash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060631727450750976/j9g9we6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

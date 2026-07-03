@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071199940563648512"
+      ]
+    },
+    "author_id": "2060627239654629376",
+    "conversation_id": "2071199952102162571",
+    "created_at": "2026-06-28T11:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071199952102162571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BfdPvzDPHs",
+          "end": 23,
+          "expanded_url": "https://x.com/ashdieds/status/2071199952102162571/photo/1",
+          "media_key": "3_2071199940563648512",
+          "start": 0,
+          "url": "https://t.co/BfdPvzDPHs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071199952102162571",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/BfdPvzDPHs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2217,
+        "media_key": "3_2071199940563648512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5hX0wbQAALM87.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071199940563648512"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2071199952102162571",
+        "created_at": "2026-06-28T11:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071199952102162571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BfdPvzDPHs",
+              "end": 23,
+              "expanded_url": "https://x.com/ashdieds/status/2071199952102162571/photo/1",
+              "media_key": "3_2071199940563648512",
+              "start": 0,
+              "url": "https://t.co/BfdPvzDPHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071199952102162571",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BfdPvzDPHs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "一个餐劵妹，一个oder ，一个神经病，一个coser，一个乞丐。求互转互fo 会查成分",
+        "id": "2060627239654629376",
+        "location": "好的",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2070528489481019462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 165,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

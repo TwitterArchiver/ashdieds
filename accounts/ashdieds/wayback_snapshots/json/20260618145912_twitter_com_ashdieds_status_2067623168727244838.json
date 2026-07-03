@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2067623168727244838",
+    "created_at": "2026-06-18T14:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067623168727244838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2056655773502160896",
+          "start": 3,
+          "username": "simaojie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067623168727244838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066918328678117603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @simaojie: 一批畸形磕药蛆，傻逼吃药妹，磕药给自己脑子磕傻了，尊严消失掉，六亲不认，变成完全被药物控制的傀儡和行尸走肉，已经完全分不清磕大了的言论和清醒的言论的区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2067623168727244838",
+        "created_at": "2026-06-18T14:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067623168727244838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2056655773502160896",
+              "start": 3,
+              "username": "simaojie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067623168727244838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066918328678117603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @simaojie: 一批畸形磕药蛆，傻逼吃药妹，磕药给自己脑子磕傻了，尊严消失掉，六亲不认，变成完全被药物控制的傀儡和行尸走肉，已经完全分不清磕大了的言论和清醒的言论的区别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056655773502160896",
+        "conversation_id": "2066918328678117603",
+        "created_at": "2026-06-16T16:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066918328678117603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066918328678117603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12006,
+          "like_count": 256,
+          "quote_count": 6,
+          "reply_count": 40,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "一批畸形磕药蛆，傻逼吃药妹，磕药给自己脑子磕傻了，尊严消失掉，六亲不认，变成完全被药物控制的傀儡和行尸走肉，已经完全分不清磕大了的言论和清醒的言论的区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo\n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 172,
+          "like_count": 589,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 142
+        },
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:39:50.000Z",
+        "description": "05 地雷/量产 你们可以叫我kaki/小卉\n欢迎互fo互转！！\n纯交同类朋友来的不收门槛\n男的别关注别骚扰别评论不收门槛\n男的别关注私信不然我会先问候你全家再拉黑",
+        "id": "2056655773502160896",
+        "location": "不收门槛不接线下男的别关注别骚扰别评论",
+        "name": "Kaki",
+        "pinned_tweet_id": "2059672691880431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056656578166898688/pLNOT_SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 128,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 88
+        },
+        "username": "simaojie",
+        "verified": false
+      }
+    ]
+  }
+}

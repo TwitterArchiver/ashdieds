@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2069319766410461647",
+    "created_at": "2026-06-23T07:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T08:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069319766410461647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2037890001485074432",
+          "start": 3,
+          "username": "taffycvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069319766410461647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068682800090542398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taffycvc: 严禁任何人碰感康！\n\n复方氨酚烷胺片，复方氨酚烷胺胶囊等等，一律禁碰！感康会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为感康而活的“感康鬼”，满脑子只有对感康的疯狂渴求，彻底毁掉正常人生。\n\n哪怕用策划药，也绝…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2069319766410461647",
+        "created_at": "2026-06-23T07:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069319766410461647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037890001485074432",
+              "start": 3,
+              "username": "taffycvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069319766410461647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068682800090542398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taffycvc: 严禁任何人碰感康！\n\n复方氨酚烷胺片，复方氨酚烷胺胶囊等等，一律禁碰！感康会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为感康而活的“感康鬼”，满脑子只有对感康的疯狂渴求，彻底毁掉正常人生。\n\n哪怕用策划药，也绝…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037890001485074432",
+        "conversation_id": "2068682800090542398",
+        "created_at": "2026-06-21T13:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068682800090542398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068682800090542398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5426,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "严禁任何人碰感康！\n\n复方氨酚烷胺片，复方氨酚烷胺胶囊等等，一律禁碰！感康会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为感康而活的“感康鬼”，满脑子只有对感康的疯狂渴求，彻底毁掉正常人生。\n\n哪怕用策划药，也绝不能沾感康！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo\n本人就这一个号 大号已永久挂掉",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T13:50:38.000Z",
+        "description": "想要一辈子活在药效里\ninfp/普瑞巴林重度依赖/小号:@YuYpap🫐🫐🐰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "YuYpap"
+              }
+            ]
+          }
+        },
+        "id": "2037890001485074432",
+        "location": "普瑞药盒里",
+        "name": "taffy🐰",
+        "pinned_tweet_id": "2058417433262891055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056354779060916225/VSxcOJq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 185,
+          "like_count": 8682,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "taffycvc",
+        "verified": false
+      }
+    ]
+  }
+}
