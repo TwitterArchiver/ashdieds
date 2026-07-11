@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2074550694145851727",
+    "created_at": "2026-07-07T17:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074550694145851727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025216486760157184",
+          "start": 3,
+          "username": "Cosmo2267651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074550694145851727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074069527781155041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cosmo2267651: 刚好300fo\n搞一个福利吧\n1.80rmb\n2.50rmb（2\n3.15rmb（3\n转帖➕评论就OK了\n还有就是成都有没有oder呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2074550694145851727",
+        "created_at": "2026-07-07T17:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074550694145851727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025216486760157184",
+              "start": 3,
+              "username": "Cosmo2267651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074550694145851727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074069527781155041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cosmo2267651: 刚好300fo\n搞一个福利吧\n1.80rmb\n2.50rmb（2\n3.15rmb（3\n转帖➕评论就OK了\n还有就是成都有没有oder呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025216486760157184",
+        "conversation_id": "2074069527781155041",
+        "created_at": "2026-07-06T09:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074069527781155041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074069527781155041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3623,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "刚好300fo\n搞一个福利吧\n1.80rmb\n2.50rmb（2\n3.15rmb（3\n转帖➕评论就OK了\n还有就是成都有没有oder呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "一个餐劵妹，一个oder ，一个神经病，一个coser，一个乞丐。求互转互fo 会查成分",
+        "id": "2060627239654629376",
+        "location": "好的",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2070528489481019462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 164,
+          "like_count": 891,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "同类欢迎互fo /oder/自殘\n➕lx互关、喜欢的随便、低能量频道不喜欢划走 infp 穷逼党、可以找我画oc呀🥹🥹无偿呀 https://t.co/f4RFWLyiPR 欢迎找我。男的！！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cosmo%E2%80%86…",
+                "end": 86,
+                "expanded_url": "https://ngl.link/cosmo%E2%80%86112266",
+                "start": 63,
+                "url": "https://t.co/f4RFWLyiPR"
+              }
+            ]
+          }
+        },
+        "id": "2025216486760157184",
+        "location": "✝️天堂✝️",
+        "name": "なえ",
+        "pinned_tweet_id": "2069954956183167476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073431206893654018/IZuy6a4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 400,
+          "like_count": 1779,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "Cosmo2267651",
+        "verified": false
+      }
+    ]
+  }
+}
