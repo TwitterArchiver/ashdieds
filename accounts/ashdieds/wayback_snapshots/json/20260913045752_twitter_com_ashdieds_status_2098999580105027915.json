@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2091772799820173691",
+    "created_at": "2026-09-13T04:57:52.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T05:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098999580105027915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1387276995357151232",
+          "start": 0,
+          "username": "FroggyDudeMC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098999580105027915",
+    "in_reply_to_user_id": "1387276995357151232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091772799820173691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FroggyDudeMC 为什么grox各平台都不更新。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99800,
+        "height": 1920,
+        "media_key": "13_2091772641548136448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091772641548136448/img/tPaQx3w3wKXnLPkb.jpg",
+        "public_metrics": {
+          "view_count": 31273
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091772641548136448/vid/avc1/320x568/ZYgCiuqNN7wrCNZ3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091772641548136448/vid/avc1/480x852/nJRFE-si-Dyc2pp_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091772641548136448/vid/avc1/720x1280/uw7qUyh-YMF3yYoY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091772641548136448/pl/Q_VZRIw4TTx2z0J9.m3u8?tag=14&v=f44"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2091772799820173691",
+        "created_at": "2026-09-13T04:57:52.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T05:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098999580105027915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1387276995357151232",
+              "start": 0,
+              "username": "FroggyDudeMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098999580105027915",
+        "in_reply_to_user_id": "1387276995357151232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091772799820173691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FroggyDudeMC 为什么grox各平台都不更新。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091772641548136448"
+          ]
+        },
+        "author_id": "1387276995357151232",
+        "conversation_id": "2091772799820173691",
+        "created_at": "2026-08-24T06:21:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091772799820173691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Knwgpy0ehk",
+              "end": 23,
+              "expanded_url": "https://x.com/FroggyDudeMC/status/2091772799820173691/video/1",
+              "media_key": "13_2091772641548136448",
+              "start": 0,
+              "url": "https://t.co/Knwgpy0ehk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091772799820173691",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2091772641548136448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 235,
+          "impression_count": 61257,
+          "like_count": 3119,
+          "quote_count": 39,
+          "reply_count": 125,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Knwgpy0ehk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "一个餐劵妹，一个oder ，一个神经病，一个coser，一个乞丐。求互转互fo 会查成分",
+        "id": "2060627239654629376",
+        "is_identity_verified": false,
+        "location": "好的",
+        "most_recent_tweet_id": "2098999580105027915",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2070528489481019462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060627239654629376/1780127886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 159,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-28T05:26:37.000Z",
+        "description": "bruh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/FroggyDude",
+                "end": 23,
+                "expanded_url": "http://youtube.com/c/FroggyDude",
+                "start": 0,
+                "url": "https://t.co/d0nXvWCChW"
+              }
+            ]
+          }
+        },
+        "id": "1387276995357151232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094815443940962676",
+        "name": "FroggyDude",
+        "pinned_tweet_id": "1510124703301586947",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1516624482961530884/CO8LIy9J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10700,
+          "following_count": 14,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/d0nXvWCChW",
+        "username": "FroggyDudeMC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

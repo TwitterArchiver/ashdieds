@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2060627239654629376",
+    "conversation_id": "2098489452247257502",
+    "created_at": "2026-09-11T19:10:48.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T20:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098489452247257502"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2098489452247257502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我遇到他太早了，他死得也太早了。他给我的人生开了一个坏头。 他垄断了我人生里那个种子一样的可能性。说到死，想到他。说到爱，还是想到他。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2098489452247257502",
+        "created_at": "2026-09-11T19:10:48.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098489452247257502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098489452247257502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我遇到他太早了，他死得也太早了。他给我的人生开了一个坏头。 他垄断了我人生里那个种子一样的可能性。说到死，想到他。说到爱，还是想到他。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "一个餐劵妹，一个oder ，一个神经病，一个coser，一个乞丐。求互转互fo 会查成分",
+        "id": "2060627239654629376",
+        "is_identity_verified": false,
+        "location": "好的",
+        "most_recent_tweet_id": "2098489452247257502",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2070528489481019462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060627239654629376/1780127886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 159,
+          "like_count": 905,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 239
+        },
+        "url": "",
+        "username": "ashdieds",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
